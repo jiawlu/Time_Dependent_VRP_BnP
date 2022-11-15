@@ -1,3 +1,3 @@
 # Time_Dependent_VRP_BnP
-This repository shares the Branch-and-Price implementation for solving the Vehicle Routing Problem (VRP) introduced in our paper: 
+This repository shares the Branch-and-Price implementation for solving the Vehicle Routing Problem (VRP) introduced in our paper (static version of model M3): 
 Lu, J., Nie, Q., Mahmoudi, M., Ou, J., Li, C., & Zhou, X. S. (2022). Rich arc routing problem in city logistics: Models and solution algorithms using a fluid queue-based time-dependent travel time representation. Transportation Research Part B: Methodological, 166, 143-182.
